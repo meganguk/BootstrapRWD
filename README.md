@@ -1,1 +1,1 @@
-# BootstrapRWD
+# Bootstrap + rwd
